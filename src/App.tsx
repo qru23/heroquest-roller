@@ -7,6 +7,9 @@ import SkullImage from './assets/skull.png'
 const containerStyle: CSSProperties = {
   height: '100vh',
   width: '100vw',
+  maxWidth: '800px',
+  background: '#fff',
+  margin: '0 auto',
 }
 
 const buttonHolderStyle: CSSProperties = {
