@@ -1,0 +1,15 @@
+{
+  "name": "HeroQuestRoller",
+  "short_name": "HQR",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "HeroQuest Dice Roller",
+  "icons": [
+    {
+      "src": "shield-black.png",
+      "sizes": "250x250",
+      "type": "image/png"
+    }
+  ]
+}
